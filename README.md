@@ -1,3 +1,3 @@
 # springboot
-In this spring project, i'm performing CURD operations.
-It provides create updation read and deletion.
+1)In this spring project, i'm performing CURD operations.
+2)It provides create updation read and deletion.
